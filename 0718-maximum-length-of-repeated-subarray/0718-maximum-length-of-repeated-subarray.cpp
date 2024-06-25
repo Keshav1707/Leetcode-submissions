@@ -1,6 +1,6 @@
 class Solution {
 public:
-int dp[2000][2000];
+int dp[1001][1001];
 int rec(int a,int b,vector<int>&va,vector<int>&vb,int&f)
 {
     if(a==va.size()||b==vb.size())
