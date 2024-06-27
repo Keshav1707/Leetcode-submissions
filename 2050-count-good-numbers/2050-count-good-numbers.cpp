@@ -9,8 +9,8 @@ int binpow(long long a,long long b)
     else return (res%MOD*res%MOD)%MOD;
 }
     int countGoodNumbers(long long n) {
-       long long even=binpow(4,n/2)%MOD;
-       long long odd=binpow(5,(n+1)/2)%MOD;
-       return (even*odd)%MOD;
+       long long even=binpow(20,n/2)%MOD;
+       if(n&1)even*=5;
+       return (even)%MOD;
     }
 };
