@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1738-maximal-network-rank](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1738-maximal-network-rank) |
 ## Topological Sort
 |  |
 | ------- |
