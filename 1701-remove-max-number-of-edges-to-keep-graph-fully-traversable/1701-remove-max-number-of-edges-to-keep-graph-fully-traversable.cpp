@@ -74,13 +74,13 @@ public:
         int a=dsa.findUPar(1);
         for(int i=1;i<=n;i++)
         {
-            cout<<dsa.findUPar(i)<<endl;
+            
             if(a!=dsa.findUPar(i))return -1;
         }
         int b=dsb.findUPar(1);;
         for(int i=1;i<=n;i++)
         {
-            cout<<dsb.findUPar(i)<<endl;
+            
             
             if(b!=dsb.findUPar(i))return -1;
         }
