@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Hash Table
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
