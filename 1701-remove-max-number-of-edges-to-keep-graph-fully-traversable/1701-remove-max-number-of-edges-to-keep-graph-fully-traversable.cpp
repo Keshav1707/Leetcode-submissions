@@ -47,7 +47,7 @@ public:
     int maxNumEdgesToRemove(int n, vector<vector<int>>& edges) {
         DisjointSet dsa(n+1);
         DisjointSet dsb(n+1);
-        sort(edges.begin(),edges.end(),greater<vector<int>>());
+        //sort(edges.begin(),edges.end(),greater<vector<int>>());
         int ans=0;
         for(auto i : edges)
         {
@@ -57,7 +57,10 @@ public:
                 ans+=dsa.unionByRank(i[1],i[2])|dsb.unionByRank(i[1],i[2]);
                 
             }
-            else if(i[0]==2)
+        }
+        for(auto i : edges)
+        {
+            if(i[0]==2)
             {
                 
                 ans+=dsb.unionByRank(i[1],i[2]);
@@ -67,6 +70,7 @@ public:
                 ans+=dsa.unionByRank(i[1],i[2]);
             }
         }
+    
         int a=dsa.findUPar(1);
         for(int i=1;i<=n;i++)
         {
