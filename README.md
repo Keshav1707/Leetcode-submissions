@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1293-three-consecutive-odds](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 ## Dynamic Programming
 |  |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
