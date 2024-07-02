@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0922-possible-bipartition](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
