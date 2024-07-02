@@ -14,7 +14,25 @@ int rec(int i,int j,vector<vector<int>>&v,int m,int n)
     else return dp[i][j]=1;
 }
     int calculateMinimumHP(vector<vector<int>>& dungeon) {
-        memset(dp,-1,sizeof(dp));
-        return rec(0,0,dungeon,dungeon.size(),dungeon[0].size());
+        memset(dp,0,sizeof(dp));
+        int n=dungeon.size();
+        int m=dungeon[0].size();
+        for(int i=0;i<n;i++)dp[i][m]=1e9;
+        for(int j=0;j<m;j++)dp[n][j]=1e9;
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int j=m-1;j>=0;j--)
+            {
+                int right=dp[i][j+1];
+                int down=dp[i+1][j];
+                int health=min(right,down);
+                if(health==1e9)health=1;
+                if(health-dungeon[i][j]>0)dp[i][j]=health-dungeon[i][j];
+                else dp[i][j]=1;
+            }
+
+        }
+        return dp[0][0];
+        //return rec(0,0,dungeon,n,m);
     }
 };
