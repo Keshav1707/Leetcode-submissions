@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1293-three-consecutive-odds](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 ## Greedy
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
