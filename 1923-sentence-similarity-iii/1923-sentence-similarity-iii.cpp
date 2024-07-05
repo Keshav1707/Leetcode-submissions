@@ -29,7 +29,7 @@ public:
         {
             if(a[beg]==b[beg])
             {
-                cout<<a[beg]<<" "<<b[beg]<<endl;
+                
                 beg++;
             }
             else if(a[end]==b[enda])
