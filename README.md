@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
