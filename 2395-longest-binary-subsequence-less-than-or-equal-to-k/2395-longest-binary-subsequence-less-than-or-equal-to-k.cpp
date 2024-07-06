@@ -9,10 +9,16 @@ int rec(int ind,int cnt,int a,string&s,int&k)
     int pick=0,notpick=0;
     notpick=rec(ind-1,cnt,a,s,k);
     int num=s[ind]-'0';
-    if((a+num*pow(2,cnt))<=k)
+    if(num==0)
     {
-        
-        pick=1+rec(ind-1,cnt+1,(a+num*pow(2,cnt)),s,k);
+        pick=1+rec(ind-1,cnt+1,(a),s,k);
+    }
+    else 
+    {
+        if(cnt<31&&(a|(num<<cnt))<=k)
+        {
+            pick=1+rec(ind-1,cnt+1,(a|(num<<cnt)),s,k);
+        }
     }
     
     return dp[ind][cnt]=max(pick,notpick);
