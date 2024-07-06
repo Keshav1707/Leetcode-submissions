@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1923-sentence-similarity-iii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
