@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2645-pass-the-pillow) |
 ## Geometry
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2645-pass-the-pillow) |
 ## Stack
