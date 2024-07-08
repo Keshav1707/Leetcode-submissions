@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Graph
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0047-permutations-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
