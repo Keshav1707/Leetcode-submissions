@@ -4,12 +4,21 @@ public:
         ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
       int curtime=0;
       double sum=0;
-      for(auto i : customers)
+      int n=customers.size();
+      for(int i=0;i<n;i++)
       {
-        curtime=max(curtime+i[1],i[0]+i[1]);
-        sum+=curtime-i[0];
+        if(curtime>customers[i][0])
+        {
+            curtime=curtime+customers[i][1];
+        }
+        else
+        {
+            curtime=customers[i][0]+customers[i][1];
+        }
+        
+        sum+=curtime-customers[i][0];
       }  
-        double avg=sum/customers.size();
-        return avg;
+        
+        return sum/n;
     }
 };
