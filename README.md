@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
+| [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
+| [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
