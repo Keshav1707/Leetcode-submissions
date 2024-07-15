@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
+| [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
+| [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2645-pass-the-pillow) |
 ## Geometry
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1923-sentence-similarity-iii) |
+| [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
