@@ -29,7 +29,7 @@ bool path(TreeNode* root,int x,string&s)
         string temp="";
         for(auto i : s)
         {
-            cout<<i<<endl;
+            //cout<<i<<endl;
             temp+='U';
         }
         reverse(sa.begin(),sa.end());
