@@ -1,3 +1,11 @@
+#include <execution>
+
+static auto _ = [](){
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
