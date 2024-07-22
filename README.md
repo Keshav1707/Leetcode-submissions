@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0692-top-k-frequent-words](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -318,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
