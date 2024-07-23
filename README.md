@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [0890-lemonade-change](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -327,8 +330,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
