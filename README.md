@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1738-maximal-network-rank) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1761-count-sorted-vowel-strings) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 | [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
 | ------- |
