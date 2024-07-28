@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1738-maximal-network-rank) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Memoization
 |  |
