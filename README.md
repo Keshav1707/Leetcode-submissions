@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-palindrome-partitioning-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1403-palindrome-partitioning-iii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1761-count-sorted-vowel-strings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1761-count-sorted-vowel-strings) |
+| [1871-palindrome-partitioning-iv](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1871-palindrome-partitioning-iv) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 | [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1804-maximum-binary-string-after-change](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-palindrome-partitioning-iv](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1871-palindrome-partitioning-iv) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1923-sentence-similarity-iii) |
 | [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
