@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Trie
@@ -350,22 +353,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Radix Sort
 |  |
