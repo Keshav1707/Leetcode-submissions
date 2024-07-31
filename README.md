@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1196-filling-bookcase-shelves](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1196-filling-bookcase-shelves](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1403-palindrome-partitioning-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1403-palindrome-partitioning-iii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
