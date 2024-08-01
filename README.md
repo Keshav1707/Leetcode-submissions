@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2502-sort-the-people](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Hash Table
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
