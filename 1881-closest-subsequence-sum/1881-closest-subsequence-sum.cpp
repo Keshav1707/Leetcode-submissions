@@ -31,7 +31,7 @@ vector<int>sums(vector<int>v)
 
         v=sums(v);
         va=sums(va);
-        sort(v.begin(),v.end());
+        
         sort(va.begin(),va.end());
         int mini=INT_MAX;
         for(auto i : v)
