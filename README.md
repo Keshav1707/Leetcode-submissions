@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1738-maximal-network-rank) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 ## Union Find
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1761-count-sorted-vowel-strings) |
 | [1871-palindrome-partitioning-iv](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1871-palindrome-partitioning-iv) |
 | [1881-closest-subsequence-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1881-closest-subsequence-sum) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 | [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Shortest Path
 |  |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Memoization
