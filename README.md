@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0047-permutations-ii) |
 ## Prefix Sum
 |  |
