@@ -13,7 +13,7 @@ int dp[109][109];
         if(dp[ind][a]!=-1)return dp[ind][a];
         if(s[ind]=='(')f=f|rec(ind+1,a+1,s);
         if(s[ind]==')')f=f|rec(ind+1,a-1,s);
-        if(s[ind]=='*')f=rec(ind+1,a+1,s)|rec(ind+1,a-1,s)|rec(ind+1,a,s);
+        if(s[ind]=='*')f=f|rec(ind+1,a+1,s)|rec(ind+1,a-1,s)|rec(ind+1,a,s);
         return dp[ind][a]=f;
     }
     bool checkValidString(string s) {
