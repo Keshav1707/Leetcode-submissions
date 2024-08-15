@@ -11,18 +11,28 @@ int rec(int ind,bool f,vector<int>&v,int fee)
     if(dp[ind][f]!=-1)return dp[ind][f];
     int nottake=rec(ind+1,f,v,fee);
     int take=-1e9;
-    if(f==0)
-    {
-        take=-v[ind]+rec(ind+1,!f,v,fee);
-    }
-    else
-    {
-        take=v[ind]-fee+rec(ind+1,!f,v,fee);
-    }
+    
     return dp[ind][f]=max(take,nottake);
 }
     int maxProfit(vector<int>& prices, int fee) {
-        memset(dp,-1,sizeof(dp));
-        return rec(0,0,prices,fee);
+        int n=prices.size();
+        vector<vector<int>>dp(n+1,vector<int>(2,0));
+        //dp[prices.size()][0]=0;
+        //dp[prices.size()][0]=-1e9;
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int f=0;f<2;f++)
+            {
+                if(f==1)
+                {
+                    dp[i][f]=max(-prices[i]+dp[i+1][0],dp[i+1][1]);
+                }
+                else
+                {
+                    dp[i][f]=max(prices[i]-fee+dp[i+1][1],dp[i+1][0]);
+                }
+            }
+        }
+        return dp[0][1];
     }
 };
