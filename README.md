@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1881-closest-subsequence-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1923-sentence-similarity-iii) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2176-parallel-courses-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2176-parallel-courses-iii) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2206-detonate-the-maximum-bombs) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1804-maximum-binary-string-after-change](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Shortest Path
 |  |
