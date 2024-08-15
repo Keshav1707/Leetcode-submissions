@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0493-reverse-pairs) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [0890-lemonade-change](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1403-palindrome-partitioning-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1403-palindrome-partitioning-iii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
