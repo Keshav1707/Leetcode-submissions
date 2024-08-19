@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
+| [0650-2-keys-keyboard](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0060-permutation-sequence) |
+| [0650-2-keys-keyboard](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1761-count-sorted-vowel-strings) |
