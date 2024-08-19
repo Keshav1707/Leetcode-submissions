@@ -18,16 +18,13 @@ ListNode*rev(ListNode*temp)
         a=temp;
         return temp;
     }
-    ListNode*dum=temp->next;
-    temp->next=nullptr;
-    rev(dum)->next=temp;
-    
+    rev(temp->next)->next=temp;
     return temp;
 }
     ListNode* reverseList(ListNode* head) {
         if(!head)return head;
         rev(head);
-        //head->next=nullptr;
+        head->next=nullptr;
         return a;
     }
 };
