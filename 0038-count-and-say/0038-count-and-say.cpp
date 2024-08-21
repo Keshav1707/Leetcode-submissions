@@ -1,10 +1,9 @@
 class Solution {
 public:
-string rec(int n)
-{
-    if(n==1)return "1";
+string countAndSay(int n) {
+        if(n==1)return "1";
 
-    string s=rec(n-1);
+    string s=countAndSay(n-1);
     string temp="";
     char c=s[0];
     int cnt=0;
@@ -21,8 +20,5 @@ string rec(int n)
     temp += to_string(cnt) + c;
 
         return temp;
-}
-    string countAndSay(int n) {
-        return rec(n);
     }
 };
