@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0977-distinct-subsequences-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0977-distinct-subsequences-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1403-palindrome-partitioning-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1403-palindrome-partitioning-iii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0977-distinct-subsequences-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0977-distinct-subsequences-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1403-palindrome-partitioning-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1403-palindrome-partitioning-iii) |
