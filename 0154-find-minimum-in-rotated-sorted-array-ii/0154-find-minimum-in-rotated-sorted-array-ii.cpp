@@ -8,8 +8,6 @@ public:
         while(beg<end)
         {
             mid=(beg+end)>>1;
-            
-            
             if(nums[mid]<nums[end])end=mid;
             else if(nums[mid]>nums[end])
             {
