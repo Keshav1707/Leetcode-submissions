@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0238-product-of-array-except-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
