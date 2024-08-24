@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1881-closest-subsequence-sum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
