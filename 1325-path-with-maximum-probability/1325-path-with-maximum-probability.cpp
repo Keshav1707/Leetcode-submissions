@@ -9,34 +9,28 @@ public:
             adj[i[1]].push_back({i[0],succProb[a]});
             a++;
         }
-        
-        vector<double>dist(n,-1e9);
-        queue<pair<int,double>>q;
-        q.push({start_node,1});
+        vector<double>dist(n,0.0);
+        priority_queue<pair<double,int>,vector<pair<double,int>>>q;
+        q.push({1.0,start_node});
         dist[start_node]=1;
         while(!q.empty())
         {
-            int node=q.front().first;
-            //double prob=q.top().second();
+            int node=q.top().second;
+            double cost=q.top().first;
             q.pop();
+            if(node==end_node)return cost;
             for(auto i : adj[node])
             {
                 int inode=i.first;
                 double iprob=i.second;
-                //cout<<dist[inode]<<" "<<dist[node]<<" "<<iprob<<endl;
-                if(dist[inode]<dist[node]*iprob)
+                if(dist[inode]<cost*iprob)
                 {
-                    //cout<<"a"<<endl;
-                    dist[inode]=dist[node]*iprob;
-                    q.push({inode,iprob});
+                    dist[inode]=cost*iprob;
+                    q.push({dist[inode],inode});
                 }
             }
         }
-        // for(auto i : dist)
-        // {
-        //     cout<<i<<" ";
-        // }
-        if(dist[end_node]==-1e9)return 0.0000;
-        return dist[end_node];
+        return 0.00000;
+       
     }
 };
