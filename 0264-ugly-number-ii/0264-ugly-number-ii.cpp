@@ -12,10 +12,7 @@ public:
             if(mini==3*dp[b])b++;
             if(mini==5*dp[c])c++;
         }
-        for(auto i : dp)
-        {
-            cout<<i<<endl;
-        }
+        
         return dp[n-1];
     }
 };
