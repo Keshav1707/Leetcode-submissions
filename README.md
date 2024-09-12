@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0060-permutation-sequence) |
+| [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0948-sort-an-array) |
