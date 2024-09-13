@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0238-product-of-array-except-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0313-super-ugly-number](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0650-2-keys-keyboard](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
