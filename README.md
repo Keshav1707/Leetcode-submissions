@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1511-count-number-of-teams) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Monotonic Stack
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1881-closest-subsequence-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1881-closest-subsequence-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
