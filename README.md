@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0458-poor-pigs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0458-poor-pigs) |
 | [0552-student-attendance-record-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0552-student-attendance-record-ii) |
 | [0639-decode-ways-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0639-decode-ways-ii) |
 | [0650-2-keys-keyboard](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0264-ugly-number-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0313-super-ugly-number) |
+| [0458-poor-pigs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0458-poor-pigs) |
 | [0650-2-keys-keyboard](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0650-2-keys-keyboard) |
 | [0873-guess-the-word](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0873-guess-the-word) |
 | [1642-water-bottles](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1642-water-bottles) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0458-poor-pigs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2187-vowels-of-all-substrings) |
 ## Design
