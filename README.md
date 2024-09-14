@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3443-maximum-total-reward-using-operations-ii) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Shortest Path
 |  |
 | ------- |
