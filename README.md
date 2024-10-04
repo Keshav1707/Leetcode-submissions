@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2445-reachable-nodes-with-restrictions](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2502-sort-the-people](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Keshav1707/Leetcode-submissions/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Shortest Path
