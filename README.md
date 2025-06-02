@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0045-jump-game-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0726-number-of-atoms) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
