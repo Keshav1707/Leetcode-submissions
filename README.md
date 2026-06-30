@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-distinct-subsequences-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/0977-distinct-subsequences-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1403-palindrome-partitioning-iii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1403-palindrome-partitioning-iii) |
 | [1720-crawler-log-folder](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Keshav1707/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Keshav1707/Leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Bitmask
 |  |
